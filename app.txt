@@ -1,1 +1,2 @@
 Hello everyone
+remote developer added this line
